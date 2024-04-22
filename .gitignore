@@ -44,7 +44,8 @@ gmon.out
 .pytest_cache/
 .ruff_cache/
 .DS_Store
-
+.cache
+compile_commands.json
 *.exe
 
 # Ignore core dumps... but not Tools/msi/core/ or the like.
